@@ -1,6 +1,6 @@
 # ExamenFinal
 
-Este es un repositorio para el Examen final de Administracion de datos, consta de 2 carpetas y las presentes instrucciones, 1 carpeta con los datos sin procesados y otra carpeta con los datos procesados y listos.
+Este es un repositorio para el Examen final de Administracion de datos, consta de 3 carpetas, la presentes con las instrucciones del examen y con sus respectivas respuestas, continuando con la carpeta con los datos sin procesados y finalmente la carpeta con los datos procesados y listos.
 
 ## Tabla de Contenidos
  Información General
@@ -14,4 +14,4 @@ En esta carpeta se encuentran la "DATA" que se utilizo para el presente Examen F
 En esta carpeta se encuentra la "DATA Final" ya procesada, limpia y lista para su uso y entrega "Clean Data"
 
 ### documentacion :
-En esta carpeta tenemos el presente Caso con sus instrucciones, proveida por la profesora Lincy Gonzalez, LEAD University.
+En esta carpeta tenemos el presente Caso con sus instrucciones y respuestas, proveida por la profesora Lincy Gonzalez, LEAD University.
